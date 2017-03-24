@@ -1,0 +1,38 @@
+[:phone arpa on]
+[:nh :ra 200]
+[
+grey<280,18>tx
+bih<280,18>g
+glaa<280,18>bz
+ax<280,20>v<30>
+griy<150,22>s<0,20>iy<80,20>
+gray<150,22>m<0,20>iy<80,20>
+gow<150,22>f<0,20>rr<80,20>
+gax<150,18>ts
+),
+myxuw<150,20>
+dxax<80,18>ley<150,20>
+dxih<80,18>d
+max<150,20>nx
+kiy<80,18>
+miy<150,17>tx
+),
+grih<150,22>z<0,20>liy<80,20>
+bih<150,22>ts<0,20>ax<80,20>v
+brr<150,22>dxiy<80,20>
+fiy<150,18>tx
+),
+freh<200,18>nch
+fray<200,18>dx
+ ay<230,18>
+ bao<230,20>lz
+flow<200,22>dxih<80,20>nx
+ih<200,22>n<0,20>ax<80,20>
+puw<200,22>lxax<80,20>v
+blax<200,18>dx
+ae<200,18>nd
+miy<200,20>
+wih<230,20>th'aw<230,22>t
+ax<180,20>
+spuw<370,18>n
+]

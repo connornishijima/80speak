@@ -1,0 +1,7 @@
+[:np :ra 160 :cp 50 :dv sm 100 la 20 hs 95 ap 100 br 45 g1 75]
+I know what you're thinking. You're thinking did he fire six shots,
+or was it ["]just ["]five.  To tell you the truth, I've forgotten myself,
+in all this excitement.  But seeing as this is a forty four magnum,
+the most powerful hand gun in the world, and can blow your head
+["]clean [_<100>"]off, you gotta ask yourself one question.
+Do I feel lucky.  [:ra 200] Well, do you, [:dv hs 120] punk?

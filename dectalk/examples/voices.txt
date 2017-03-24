@@ -1,0 +1,12 @@
+[:np] [:dv sx 0] Am I a man or woman?
+[:np] [:dv  hs 115] Do I sound more like Huge Harry  this
+way?
+[:nh] [:dv hs 135] Do I have a swelled head?
+[:nk] I am about 10 years old.
+[:nk] [:dv hs 65] Do I sound like a six year old?
+[:np][:dv br 55 gv 56] Do I sound more like Doctor Dennis
+now?
+[:np][:dv ri 0 sm 70] Do I sound more mellow?
+[:np][:dv ri 90 sm 0] Do I sound more forceful?
+[:nb][:dv la 20] Do I sound more sleepy?
+[:nh][:dv ap 90 pr 0] I am a robot.

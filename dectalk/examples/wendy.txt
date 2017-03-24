@@ -1,0 +1,17 @@
+[:nw]
+[:dv bf 0 sm 30 hr 50 gv 65 gf 75 ri 80 gn 75 sx 1 hs 103 br 0 lx 0 ap 90 pr 60 sr 500]
+[:phoneme on]
+[_<300,20>ay<600,20>v<0,17>hxae<400,17>d<0,22>ax<200,22>s<0,20>eh<600,20>ks<0,17>chey<500,17>njh_<100,22>qay<600,22>hx<0,24>ae<400,24>d<0,24>ax<200,24>s<0,25>eh<700,25>kschey<1400,25>njh_<500,22>eh<400,22>v<0,18>riy<200,18>b<0,20>ao<400,20>d<0,22>iy<200,22>ix<250,20>n<150,20>dhax<200,20>w<0,17>rr<400,17>ldq_<200,15>niy<400,15>dztuh<200,15>g<0,20>eh<400,20>tax<200,20>s<0,17>eh<900,17>ks<0,13>chey<1900,13>njh. ]
+Hi. My name is whendy! Well, I [yx'uwst ] to be whendy, but since I got a[s'ehkscheynjh, 'ayhxaevch'eynjhdmaxn'eymtaxw'ihlyxaxm!  ww'ahchaxth'ihnxk axbawtdh'aet! ixzdh'aet'jhaxst'sowk'uwlx, rrw'aht! 'ayms'ows'ow gl'aed tuwb'iy axm'aen. ] 
+[wehlx, 'dh'aets'aolay'hxaeftaxs'eyfrrn'aw, sowg'uhdb'ay, ae nd hxaevaxw'ahndrrfuhld'ey!]
+[:nh] [:dv sr 100 pr 200 hs 104 sm 0 ] Hey! [:dv hr 20 sr 80 pr 130]  [w'ayjhaxg'owaendgehtaxs'ehkscheynjh! dh'aetsjhaxsts'owst'uwpixd!]
+]
+[:nw]
+[:dv bf 0 sm 30 hr 50 gv 65 gf 75 ri 80 gn 75 sx 1 hs 103 br 0 lx 0 ap 90 pr 60 sr 500]
+[w'ehlmaen, ayg'aotwahnkuhzayw'aontixdwaxn. ixzdh'aetax'guhdixn'ahfr'iyzenf'oryxax? rrduwyxaxw'aontm'iydaxg'ow'ixntuhf'rrdhrrd'iyteylz!]
+[:nh] [:dv sr 100 pr 100 hs 103 sm 0 sr 50 hr 60] [n'ao _<800,0>dh'aets'aolrayt, ayd'owntk'ehrixniymor!] 
+
+[:nw]
+[:dv bf 0 sm 30 hr 50 gv 65 gf 75 ri 80 gn 75 sx 1 hs 103 br 0 lx 0 ap 90 pr 60 sr 500]
+
+['ow<0,18>key<0,11>_<300,0> , jhaxstaezl'aonxaezyxaxd'owntg'owm'ehsixnwihthm'aypr'ayv'ixtbixznixs.]

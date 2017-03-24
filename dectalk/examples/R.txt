@@ -1,0 +1,111 @@
+[:phone arpa on][:nh][
+ah<150,22>baw<300,15>tah<150,>mey<300,>day<150,18>l
+six<150,17>nxah<150,15>sao<500,>nx,<100>rih<150,>kih<150,17>
+tiy<150,18>
+tih<150,20>kih<150,22>tiy<150,23>tih<800,22>n,<100>
+ah<150,>baw<300,27>tah<150,>mey<300,25>day<150,23>l
+six<150,22>nxah<150,>sao<450,18>nxhxuw<150,20>dih<150,22>
+dax<150,>nt hxae<450,20>v hxrr<150,17>fae<300,18>mliy<150,15>
+lao<450,>nx,<200>
+naa<150,17>tow<300,18>nliy<150,>dih<300,20>dshiy<150,>
+duw<300,22>dheh<150,>mrao<1000,27>nx,<200>shiy<150,17>dih<150,18>deh<150,20>v
+riy<150,18>wah<150,17>n
+ah<150,15>vdheh<150,13>mih<800,15>n,<100>dheh<150,>mih<700,17>n
+,<150>shiy<150,17>dih<150,18>deh<150,20>vriy<150,18>wah<150,17>n
+ah<150,15>vdheh<150,13>mih<1500,15>n,<600>
+hxrr<150,22>mah<300,15>dhrr<150,>shiy<300,>kuh<150,18>d
+neh<150,17>vrr<150,15>stae<500,>nd,<100>rih<150,>kih<150,17>
+tiy<150,18>
+tih<150,20>kih<150,22>tiy<150,23>tih<800,22>n,<100>
+hxrr<150,>mah<300,27>dhrr<150,>shiy<300,25>kuh<150,23>d
+neh<150,22>vrr<150,>stae<450,18>ndae<150,20>ndsow<300,22>ah<150,>
+say<150,20>eh<150,18>nay<150,17>d
+suw<300,18>pshiy<150,15>plae<450,>nd,<200>
+dhah<150,17>mah<150,18>dhrr<300,>day<250,20>d,<50>wih<75,>dhah<75,>
+spuw<150,22>nih<150,>nhxrr<150,>hxae<1000,27>nd,<200>ae<150,15>nd
+hrr<150,17>
+fey<150,18>sih<150,20>nah<150,18>hxih<150,17>diy<150,15>ih<150,13>s
+grih<800,15>n,<100>ah<150,>grih<800,17>n,<100>hxrr<150,>
+fey<150,18>sih<150,20>nah<150,18>hxih<150,17>diy<150,15>ih<150,13>s
+grih<1500,15>n,<600>
+wah<100,22>nmow<300,15>rnih<150,>nih<300,>nah<150,18>
+fih<150,17>tah<150,15>vpiy<300,>k,<100>six<150,>nx rih<150,>
+kih<150,17>tiy<150,18>tih<150,20>kih<150,22>tiy<150,23>tih<800,22>n,<100>
+wah<150,>nmow<300,27>rnih<150,>nih<300,25>nah<150,23>
+fih<150,22>tah<150,>vpiy<450,18>kshiy<150,20>draw<300,22>nd
+hrr<150,>fah<300,20>dhrr<150,17>ih<150,18>ndhah<150,>kriy<450,15>k
+,<200>dhah<150,17>wao<150,18>trr<300,>tey<300,20>steh<150,>dbae<150,22>d
+fow<150,>rah<150,>wiy<1000,27>k,<200>ae<150,15>ndwiy<150,17>
+hxae<150,18>d tuw<150,20>mey<150,18>kduw<150,17>uw<150,15>
+wih<150,13>th jhih<800,15>n,<100>wih<150,>th jhih<800,17>n
+,<100>wiy<150,>hxae<150,18>d tuw<150,20>mey<150,18>k
+duw<150,17>uw<150,15>wih<150,13>th jhih<1500,15>n,<600>
+shiy<150,22>seh<150,27>t hxrr<300,>sih<300,>strr<150,22>z
+hey<300,27>rx ah<150,15>nfay<500,>r,<100>rih<150,>kih<150,17>
+tiy<150,18>tih<150,20>kih<150,22>tiy<150,23>tih<800,22>n,<100>
+shiy<150,>seh<300,27>t hxrr<150,>sih<300,25>strr<150,23>z
+hey<300,22>rx ah<150,>nfay<450,18>rx ae<150,20>ndae<300,22>z
+dhah<150,>smow<150,20>kae<150,17>ndfley<450,18>m
+row<150,15>z hxay<450,>rx,<200>
+dae<300,18>nstah<150,>raw<300,20>nd dhah<150,>fyu<150,22>
+nrr<150,>el<150,>pah<300,27>yxrr<700,>,<200>
+pley<150,18>ih<150,20>nah<150,18>
+vah<150,17>ay<150,15>ow<150,13>lih<800,15>n
+,<100>ow<150,>lih<700,17>n,<150>
+pley<150,18>ih<150,20>nah<150,18>
+vah<150,17>ay<150,15>ow<150,13>lih<1500,15>n,<600>
+weh<300,22>lshiy<150,>wey<150,15>tih<150,>d hxrr<150,>
+brah<150,>dhrr<300,18>daw<300,17>nwih<150,15>th stow<500,>nz
+,<100>rih<150,>kih<150,17>tiy<150,18>tih<150,20>kih<150,22>
+tiy<150,23>tih<800,22>n,<100>
+shiy<150,>wey<150,27>tih<150,>d hxrr<150,>brah<150,25>
+dhrr<300,23>daw<300,22>nwih<150,>th stow<300,18>nzae<150,20>nd
+seh<150,22>ntih<150,>mao<450,20>ftuw<150,17>dey<300,18>
+viy<150,15>jhow<450,>nz,<300>
+ao<300,18>l dhey<150,>eh<150,20>vrr<300,>faw<150,22>nd
+wrr<150,>sax<150,>mbow<1000,27>nz,<200>ae<300,15>ndaa<300,17>
+key<150,18>zhax<150,20>nel<150,18>
+piy<150,17>sih<150,15>zah<150,13>vskih<800,15>n,<100>
+ah<150,>vskih<700,17>n,<150>ah<150,>
+key<150,18>zhax<150,20>nel<150,18>
+piy<150,17>sih<150,15>zah<150,13>vskih<1500,15>n,<600>
+wah<150,22>ndey<300,15>weh<150,>nshiy<300,>hxae<150,18>d
+nah<150,17>thix<150,15>nxtuw<150,>duw<500,>,<100>rih<150,>
+kih<150,17>tiy<150,18>tih<150,20>kih<150,22>tiy<150,23>tih<800,22>n,<100>
+wah<150,>dey<300,27>weh<150,>nshiy<300,25>hxae<150,23>d
+nah<150,22>thix<150,>nxtuw<150,>duw<450,18>shiy<150,20>
+kax<150,22>t hxrr<150,>bey<450,20>biy<150,17>brah<150,18>
+dhrr<150,15>ih<150,>ntuw<450,>,<200>
+srr<300,18>vd hxih<150,>mah<150,20>pae<150,>
+zae<150,>nay<300,22>rih<150,>sh stuw<1000,27>,<200>ae<150,15>nd
+ih<150,17>nvay<150,18>tih<150,20>d dhah<150,18>
+ney<150,17>ey<150,15>bow<150,13>rzih<800,15>n,<100>bow<150,>rzih<700,17>n,<150>
+ih<150,17>nvay<150,18>tih<150,20>d dhah<150,18>
+ney<150,17>ey<150,15>bow<150,13>rzih<1500,15>n,<600>
+ae<150,22>ndweh<150,15>nae<150,>tlae<300,>st dhah<150,17>
+pax<150,18>liy<300,17>skey<150,15>mbay<500,>,<100>rih<150,>kih<150,17>
+tiy<150,18>tih<150,20>kih<150,22>tiy<150,23>tih<800,22>n,<100>
+ae<150,>ndweh<150,27>nae<150,>tlae<300,25>st dhah<150,23>pax<150,>
+liy<300,22>skey<150,>mbay<300,18>hxrr<150,20>lih<150,22>
+tel<150,>prae<300,20>nxks shiy<150,18>dih<150,17>dnaa<300,18>t
+dih<150,15>nay<600,>,<150>
+tuw<150,17>duw<300,18>sow<150,>shiy<150,20>wuh<150,22>d hxae<150,23>v
+hxae<300,22>dtuw<150,>lay<1000,27>,<200>ae<150,17>d
+lay<150,18>ix<150,20>nx shiy<150,18>nyu<150,17>
+wah<150,15>zah<150,13>sih<800,15>n,<100>ah<150,>sih<700,17>n
+,<150>yxeh<150,17>slay<150,18>ix<150,20>nx shiy<150,18>nyu<150,17>
+wah<150,15>zah<150,13>sih<1500,15>n,<600>
+may<150,22>trae<300,15>jhih<150,>ktey<300,>lay<150,18>
+wow<300,17>ntprow<150,15>lao<500,>nx,<100>rih<150,>kih<150,17>
+tiy<150,18>tih<150,20>kih<150,22>tiy<150,23>tih<800,22>n,<100>
+may<150,>trae<300,27>jhih<150,>ktey<300,25>lay<150,23>
+wow<300,22>ntprow<150,>lao<450,18>nx ae<150,20>ndih<150,22>f
+yxuw<150,>dih<150,>dnaa<150,20>tih<150,17>n jhoy<450,18>may<150,15>
+sao<450,>nx,<200>yxuw<150,>v
+yxow<150,17>rseh<300,18>lvztax<150,>bley<300,20>mih<150,>f
+ih<300,22>tstuw<150,>lao<1000,27>nx,<200>yxuw<150,15>
+shuh<150,17>dneh<150,18>vrr<150,20>hxae<150,18>vleh<150,17>t
+miy<150,15>biy<150,13>gih<800,15>n,<100>biy<150,>gih<700,17>n
+,<150>yxuw<150,15>shuh<150,17>dneh<150,18>
+vrr<150,20>hxae<150,18>vleh<150,17>t
+miy<150,15>biy<150,13>gih<1500,15>n,<600>]

@@ -1,0 +1,187 @@
+
+
+[:np :ra 300]
+      The Story of Little Black Sambo.
+      by Helen Bannerman .
+Once upon a time there was a little black boy, and his name was Little 
+Black Sambo. 
+[:nr]
+And his mother was called Black Mumbo.
+[:nh :dv hs 120]
+And his father was called Black Jumbo.
+[:np]
+And Black Mumbo made him a beautiful little Red Coat, and a pair of
+beautiful little blue trousers. 
+And Black Jumbo went to the Bazaar, and bought him a beautiful Green 
+Umbrella, and a lovely little Pair of Purple Shoes with Crimson Soles 
+and Crimson Linings. 
+And then wasn't Little Black Sambo grand? 
+So he put on all his Fine Clothes, and went out for a walk in the 
+Jungle. And by and by he met a Tiger. And the Tiger said to him,
+[:nh :dv la 110 hs 110]
+"Little Black Sambo, I'm going to eat you up!"
+[:np]
+And Little Black Sambo said,
+[:nh :dv hs 40]
+"Oh! Please Mr. Tiger, don't eat me up, and I'll give you my beautiful little
+Red Coat."
+[:np]
+So the Tiger said,
+[:nh :dv la 140 hs 110]
+"Very well, I won't eat you this time, but
+you must give me your beautiful little Red Coat."
+[:np]
+So the Tiger got poor Little Black Sambo's beautiful little Red Coat, and went away saying,
+[:nh :dv la 140 hs 110]
+"Now I'm the grandest Tiger in the Jungle."
+[:np]
+And Little Black Sambo went on, and by and by he met another Tiger, and
+it said to him,
+[:nh :dv la 110 hs 120]
+"Little Black Sambo, I'm going to eat you up!"
+[:np]
+And Little Black Sambo said,
+[:nh :dv hs 40]
+"Oh! Please Mr. Tiger, don't eat me up, and
+I'll give you my beautiful little Blue Trousers."
+[:np]
+So the Tiger said,
+[:nh :dv la 110 hs 120]
+"Very well, I won't eat you this time, but you must give me your
+beautiful little Blue Trousers."
+[:np]
+So the Tiger got poor Little Black
+Sambo's beautiful little Blue Trousers, and went away saying,
+[:nh :dv la 110 hs 120]
+"Now I'M the grandest Tiger in the Jungle." 
+[:np]
+And Little Black Sambo went on, and by and by he met another Tiger, and
+it said to him,
+[:nh :dv la 140 hs 120]
+"Little Black Sambo, I'm going to eat you up!"
+[:np]
+And Little Black Sambo said:
+[:nh :dv hs 40]
+ "Oh! Please Mr. Tiger, don't eat me up, and
+I'll give you my beautiful little Purple Shoes with Crimson Soles and 
+Crimson Linings." 
+[:np]
+But the Tiger said:
+[:nh :dv la 140 hs 120]
+"What use would your shoes be to me? I've got four
+feet, and you've got only two; you haven't got enough shoes for me." 
+[:np]
+But Little Black Sambo said:
+[:nh :dv hs 40] "You could wear them on your ears."
+[:nh :dv la 140 hs 120]
+"So I could,"
+[:np] said the Tiger:
+[:nh :dv la 140 hs 120]
+"that's a very good idea. Give them to me,
+and I won't eat you this time." 
+[:np]
+So the Tiger got poor Little Black Sambo's beautiful little Purple Shoes
+with Crimson Soles and Crimson Linings, and went away saying,
+[:nh :dv la 140 hs 120]
+"Now I'm the grandest Tiger in the Jungle." 
+[:np]
+And by and by Little Black Sambo met another Tiger, and it said to him,
+[:nh :dv la 140 hs 100]
+"Little Black Sambo, I'm going to eat you up!"
+[:np] And Little Black Sambo
+said:
+[:nh :dv hs 40] "Oh! Please Mr. Tiger, don't eat me up, and I'll give you my
+beautiful Green Umbrella."
+[:np] But the Tiger said:
+[:nh :dv la 140 hs 100]
+"How can I carry an umbrella, when I need all my paws for walking with?" 
+[:nh :dv hs 40]
+"You could tie a knot on your tail and carry it that way,"
+[:np]
+said Little Black Sambo.
+[:nh :dv la 140 hs 100]
+"So I could,"
+[:np]
+said the Tiger.
+[:nh :dv la 140 hs 100]
+" Give it to me, and I won't eat you this time."
+[:np]
+So he got poor Little Black Sambo's beautiful Green
+Umbrella, and went away saying,
+[:nh :dv la 140 hs 100]
+"Now I'm the grandest Tiger in the
+Jungle." 
+[:np]
+And poor Little Black Sambo went away crying, because the cruel Tigers
+had taken all his fine clothes. 
+[:nh :dv hs 20] [:phone arpa on] [buw<300>.hxuw<400>hxuw<300>]
+[:np] Presently he heard a horrible noise that sounded like
+[:nh :dv la 140 hs 120] [:phone arpa on][grr<500>]
+[:np]
+and it got louder and louder.
+[:nh :dv hs 40]
+"Oh! dear!"
+[:np]
+said Little Black Sambo:
+[:nh :dv hs 40]
+ "there are all the Tigers coming back to eat me up! What shall I
+do?"
+[:np]
+So he ran quickly to a palm tree, and peeped round it to see what
+the matter was. 
+And there he saw all the Tigers fighting, and disputing which of them 
+was the grandest. And at last they all got so angry that they jumped up 
+and took off all the fine clothes, and began to tear each other with 
+their claws, and bite each other with their great big white teeth. 
+And they came, rolling and tumbling right to the foot of the very tree 
+where Little Black Sambo was hiding, but he jumped quickly in behind the 
+umbrella. And the Tigers all caught hold of each other's tails, as they 
+wrangled and scrambled, and so they found themselves in a ring round the 
+tree. 
+Then, when the Tigers were very wee and very far away, Little Black 
+Sambo jumped up, and called out:
+[:nh :dv hs 40]
+ "Oh! Tigers! why have you taken off all your nice clothes? Don't you want them any more?"
+ [:np] But the Tigers only
+answered:
+[:nh :dv la 140 hs 120] [:phone arpa on][grr<500>]
+[:np]
+Then Little Black Sambo said:
+[:nh :dv hs 40]
+ "If you want them, say so, or I'll take
+them away."  [:np] But the Tigers would not let go of each other's tails, and 
+so they could only say, [:nh :dv la 130 hs 110] [:phone arpa on][grr<600>].
+[:np]
+So Little Black Sambo put on all his fine clothes again and walked off.
+And the Tigers were very, very angry, but still they would not let go of 
+each other's tails. And they were so angry, that they ran round the 
+tree, trying to eat each other up, and they ran faster and faster, till 
+they were whirling round so fast that you couldn't see their legs at 
+all. 
+And they still ran faster and faster and faster, till they all just 
+melted away, and there was nothing left but a great big pool of melted 
+butter (or "ghi," as it is called in India) round the foot of the tree. 
+Now Black Jumbo was just coming home from his work, with a great big 
+brass pot in his arms, and when he saw what was left of all the Tigers 
+he said,
+      [:nh :dv hs 120]
+"Oh! what lovely melted butter! I'll take that home to Black
+Mumbo for her to cook with." 
+[:np]
+So he put it all into the great big brass pot, and took it home to Black
+Mumbo to cook with. 
+When Black Mumbo saw the melted butter, wasn't she pleased!
+[:nr] "Now,"
+[:np] said she:
+[:nr]
+"we'll all have pancakes for supper!"
+[:np]
+So she got flour and eggs and milk and sugar and butter, and she made a
+huge big plate of most lovely pancakes. And she fried them in the melted 
+butter which the Tigers had made, and they were just as yellow and brown 
+as little Tigers. 
+And then they all sat down to supper. And Black Mumbo ate Twenty-seven 
+pancakes, and Black Jumbo ate Fifty-five but Little Black Sambo ate a 
+Hundred and Sixty-nine, because he was so hungry. 
+ 
+ 

@@ -1,0 +1,25 @@
+[:nk] [:dv sx 0 hs 98 br 26 lx 45 sm 39 ri 44 nf 4 la 1 bf 6 hr 19 sr 36 as 76 qu 30 ap 171 pr 127 gh 68 gn 73 gv 63 gf 70]
+I am an average voice.
+[d<100,13>ow<400> r<100,15>ey<400>]
+[m<100,17>iy<400> f<100,18>ah<400>]
+[s<100,20>ow<400> l<100,22>ah<400>]
+[t<100,24>iy<400> d<100,25>ow<400>]
+
+[:dv sx 1]
+This is the male version of the average voice.
+[d<100,13>ow<400> r<100,15>ey<400>]
+[m<100,17>iy<400> f<100,18>ah<400>]
+[s<100,20>ow<400> l<100,22>ah<400>]
+[t<100,24>iy<400> d<100,25>ow<400>]
+[:dv hs 105 br 36 lx 50 sm 50 ri 50 nf 50 bf 20 hr 51 sr 50 as 50 qu 50 ap 200 pr 125]
+This is the median withthe la parameter set at 0.
+[d<100,13>ow<400> r<100,15>ey<400>]
+[m<100,17>iy<400> f<100,18>ah<400>]
+[s<100,20>ow<400> l<100,22>ah<400>]
+[t<100,24>iy<400> d<100,25>ow<400>]
+[:dv sx 0] This is the female version of the median voice.
+[d<100,13>ow<400> r<100,15>ey<400>]
+[m<100,17>iy<400> f<100,18>ah<400>]
+[s<100,20>ow<400> l<100,22>ah<400>]
+[t<100,24>iy<400> d<100,25>ow<400>]
+

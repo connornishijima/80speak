@@ -1,0 +1,1230 @@
+[:ph on]
+balance of power.
+[_<1600>]
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]This is an S O S distress call from 
+the mining ship Red Dwarf.  The crew are dead, killed by a radiation 
+leak.  The only survivors are Dave Lister, who was in suspended animation 
+during the disaster, and his pregnant cat, who was safely sealed in 
+the hold.  Revived three million years later, Lister's only companions 
+are a life form who evolved from his cat, and Arnold Rimmer, a hologram 
+simulation of one of the dead crew.  In the 3 million years we've 
+been away, it is my fond hope that mankind has abolished war, cured 
+all disease, and got rid of those little Western saloon doors you 
+get in trendy clothes shops.
+[_<800>]
+[:np] [:ra 245]
+The bridge.  Rimmer is standing, Lister sitting with his 
+feet up on a console.  He's checking things off on a clipboard as 
+Rimmer lists them.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   140,000 rehydratable chickens.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30][:dv pr 0] Check.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   72 tons of reconstituted sausage pat.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Check.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   4,691 irradiated haggis.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Oh, Rimmer, it's Saturday night.  I've had enough.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   4,691 irradiated haggis.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Rimmer, it's Saturday night!  I want to boogie 
+on down!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   4,691 irradiated haggis.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   We've been doing this for four hours!  Let's 
+have a break!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   4,691 irradiated haggis.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Rimmer, will you stop saying 4,981 irradiated 
+haggis and speak to me!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   4,691 irradiated haggis.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]Rimmer, I want 
+to go for a *drink!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   4,691 irradiated haggis.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I want to have some fun!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   This *is* fun!  Are you mad?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   You read something out.  I say check.  Where's 
+the fun?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   All right.  We'll put you in command for a few 
+seconds, Capitaine. 
+[:np] [:ra 245]
+he Salutes.
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  What's the plan, sir?  Come on, lickety 
+split.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Go back to Earth.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   And in the meantime?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I don't know, generally slob around, have a few 
+laughs.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Excellent plan, Lister!  Excellent plan!  Brilliant 
+plan!  There was me thinking you hadn't thought about it, when clearly 
+you have.  Right, I'll just stand over here and laugh slobbily, shall 
+I?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Rimmer, I'm going for a drink.  [gihmiy]me cigarettes.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   I only owe you four and three quarters.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   You owe me five.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   It's one cigarette for each day you obey me.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Well, there you go.  Five days, five cigarettes.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Ah, but I'm penalising you a quarter of a cigarette 
+for saying check in a variety of silly voices while doing the homogenised 
+puddings.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Well, I'm taking five.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   You take five, Lister, I'll eject the rest of 
+the ship's stock into space.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Ha ha ha ha!  So they're somewhere near an airlock?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Ha ha ha ha.  You'll never find them, Lister.  I 
+was always a master at hide and seek as a child.  It's not a gift 
+you lose.
+
+[:np] [:ra 245]
+lister tairs off a quarter of a cigarette.
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30] OK, quark brain.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Even it out.  Take out the flaky bits.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Oh, I really really hate you, Rimmer.  
+[:np] [:ra 245]
+he Walks 
+out.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Have a lovely, lovely time, Lister.  Give my 
+regards to the air.
+
+[_<800>] 
+[:np] [:ra 245]
+Lister is riding his 3 wheeler down a corridor.  He stops outside 
+their cabin and enters.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Lights.
+
+[:np] [:ra 245]
+The lights come on.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Holly, why Rimmer's hologram?  Why did you have 
+to bring Rimmer's hologram back?  He was the most unpopular man on 
+board this ship.  I mean, he even had to organise his own surprise 
+birthday parties.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]  And who should I have brought back, 
+then?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Anyone.  Chen.  Petersen.  I mean, Hermann Gring 
+would have been more of a laugh than Rimmer.  I mean, OK, he was a 
+drug crazed transvestite, but at least we could have gone dancing!
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   I brought Rimmer back because 
+he's the best person to keep you sane.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Oh, crap.
+
+[:np] [:ra 245]
+A panel on the wall swings around to reveal a toilet.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Not you!
+
+[:nk]  I do apologise, I wasn't paying attention.  See you later.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   What about Christine Kochanski?  You could have 
+brought Christine back.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   In your entire life, your shared conversations 
+with her totaled 173 words.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   So?
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   In terms of wordage, you actually had a better 
+relationship with your rubber plant.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I know, but *Rimmer?
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   He's the person you knew best.  Over 14 million 
+words in all.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Holly, 7 million of those were me telling him 
+to smeg off, and the other 7 million were him putting me on report 
+for telling him to smeg off.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   Jean Paul Sartre said hell was being locked forever 
+in a room with your friends.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Holly, all his mates were French.
+
+[:np] [:ra 245]
+Leaves the room.
+
+[_<800>] 
+[:np] [:ra 245]
+External shot of the ship, then cut to the mess.  Lister is sitting 
+alone, sipping a drink.  The scene fades to the past,  a party.  Lister 
+and three of his friends are sitting at the table drinking, while 
+others dance around them.  A sign on the wall says NOSTALGIA NIGHT 
+1990's.
+
+ [:nh]    I've been to Titan, I've been 
+to Juno, I can name eight things that go in jars that you know!  Pickles!
+
+ [:nd]   Jam!
+
+ [:nd] [:dv pr 90 br 1 ap 70]   Spaghetti!
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Brains!
+
+ [:nd]   What?  In jars?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   My uncle's brain's in a jar.  It's really sad.
+
+ [:nd] [:dv pr 90 br 1 ap 70]   Why is it sad?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   He's not dead yet.
+
+ [:nh]    Right, everybody's punished.  Finish your drinks.
+
+[:np] [:ra 245]
+They all scull their drinks, and are still horsing around when Rimmer 
+approaches through the crowd.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Excuse me, please.  Could you move, please?  Excuse 
+me.  Some of us have more important things to do than wiggle our posteriors.  Could 
+you move please?  Thank you.  Could you move?  Excuse me, please.  Excuse 
+me. Excuse me, please.  Excuse me.  [:np] [:ra 245]
+He runs into Kochanski, who drops 
+her purse.  Rimmer picks it up and throws it away. 
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] If you want to 
+dance, do it over there.  [:np] [:ra 245]
+Calls in the direction he threw it
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Sorry.  [:np] [:ra 245]
+Continues 
+towards Lister's table.
+
+ [:nd] [:dv pr 90 br 1 ap 70]   That woman's out of your league.  She's just too 
+classy for you.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Who is?
+
+ [:nd] [:dv pr 90 br 1 ap 70]   Kochanski.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I've got no big thing about Kochanski.
+
+ [:nd] [:dv pr 90 br 1 ap 70]   Stick to your usual type.  Women with little wispy 
+beards who wear three overcoats and carry little bags full of string.
+
+ [:nd]   Christine Kochanski?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Shut up!
+
+ [:nd]   What, Officer Christine Kochanski?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Selby, have you ever eaten a coconut whole?
+
+ [:nd]   Ah, you've got no chance with her.  You're just 
+too ugly.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Listen, hadron head, I've got no big thing about 
+Christine Kochanski!
+
+ [:nd] [:dv pr 90 br 1 ap 70]   I have.
+
+ [:nd]   So have I.
+
+[:np] [:ra 245]
+Rimmer walks up to them and salutes.  So do they, more or less.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Ha ha ha.  Lister, where's my revision timetable?
+
+ [:nd] [:dv pr 90 br 1 ap 70]   Shit, it's Saturday night!
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Come on, no one works Saturday night!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   You don't work any night.  You don't work any 
+*day!
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Skive hard, play hard!  That's our motto!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Look, I've got my engineering re-sit on Monday.  I 
+don't know anything.  Where's my revision timetable?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Wait, is this the thing in all different colours, 
+with all the subjects divided into study periods and rest periods 
+and self testing time?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   It took me seven weeks to make it.  I've got 
+to cram my whole revision into one night.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Hang on, is this the thing with the note on it 
+in red which said, `Vital.  Valuable.  Urgent.  Do Not Touch On Pain 
+Of Death?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Yes.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I threw it away.
+
+[:np] [:ra 245]
+Lister and his friends crack up.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Ha ha ha ha ha, tee hee.  Where is it?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   No, I didn't.  I pinned it up on the wall.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   What?  Why?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   To dry it out.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   What do you mean, dry it out?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Well, I spilled a cold vindaloo on it.  Don't 
+worry, it's a little bit red, but you can read most of it, especially 
+if you scrape the lumps off.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   You spoiled my [_<300>] no, I haven't got time.  I'm 
+taking learning drugs and all I'm memorising is this conversation.
+
+ [:nh]    They're illegal!
+
+[:np] [:ra 245]
+rimmer goes into a sort of trance, braught on by learning drugs 
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Where's my revision 
+timetable, Lister, it's Saturday night, no one works Saturday night, 
+you don't work any night, you don't work any day, skive hard, play 
+hard, that's our motto, Lister, where did you put my revision timetable, 
+it's Saturday night, no one works Saturday night, you don't work
+[:np] [:ra 245]
+Wanders 
+off into the crowd in a daze, muttering to himself.
+
+ [:nd] [:dv pr 90 br 1 ap 70]   I've been to Titan, I've been to Bolanski, I can 
+name 90 men [hxuwv] slept with Kochanski!  Me!
+
+ [:nh]    Me!
+
+ [:nd]   Me!
+
+ [:nd] [:dv pr 90 br 1 ap 70]   The London Jets Juniors!
+
+ [:nh]    The service droids!
+
+ [:nd]   My mother!
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   OK, leave it alone, leave it
+
+[:np] [:ra 245]
+His daydream fades, and he's left back in the present, alone in the 
+mess.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Alone.
+
+[:np] [:ra 245]
+he Tries to light up, but burns his fingers.
+
+[_<800>] 
+[:np] [:ra 245]
+Rimmer is walking down a corridor, and runs into the Cat, who is 
+pushing a cart loaded with silver boxes.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   Aaaoooww!  Ooh, babe!  [hxawm]I looking?  [:np] [:ra 245]
+Pulls out a little mirror.
+[:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  I'm looking 
+nice.  My hair is nice, my face is nice, my suit is nice.  I'm looking 
+really nice!  Aaaooowww! Jump back, hey[:np] [:ra 245]
+And so on.
+[:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250] I wonder how 
+I'm looking now?  [:np] [:ra 245]
+Pulls out the mirror and checks again
+[:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]  Still looking 
+nice.  My hair's still nice, my face is still nice, my suit's [_<400>] I'm 
+just nice, period.  Aaaoooww, jump back, get down
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Good evening, you stupid stinking festering gimboid 
+of a cat. [:np] [:ra 245]
+Begins to leave, then realises what the Cat has on the 
+trolley. 
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]Er, you're going to put these cigarettes back, aren't you?
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   Are you crazy?  This is my all time best lucky find 
+I ever found in the whole of today.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   No no no no no, you are going to put these cigarettes 
+back, quickly, before he comes.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   These are mine.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   They're not yours, put them back.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   See this hand?  It is mine.  See these things?  They 
+are mine.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   I'll give you a fish.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   One fish?  Ha!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Two fish.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   For all these shiny things?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   I'll show you how to get all the fish you'll 
+ever need.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]    Five fish?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   [mm<200,13>mm<200,17>_<200>.]
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   Five fish?  I'll be rich!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   You certainly will!  Yes, come on
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   All right!  [:np] [:ra 245]
+Begins to wheel the trolley back the 
+way he came, then suddenly stops, struck with suspicion. 
+[:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250] Five fish?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Six fish!
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   Oooowwww!  [:np] [:ra 245]
+His mind made up, he goes the way Rimmer 
+wants.
+
+[_<800>]
+[:np] [:ra 245]
+Lister and Rimmer's cabin.  Lister is strumming on his guitar and 
+singing something best left undescribed.  Rimmer enters.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Lister, what on Titan is this din?  *Lister!
+
+[:np] [:ra 245]
+Lister stops singing and playing; the background tune, if that's 
+the right word for it, continues from the CD deck.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   What on Titan is this din?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   It's Rastabilly-Ska.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Is this 
+it?  It's got a health warning on it, you know.  It's bad for you.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   It's a classic.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   `Danger.  Government Health Warning.  This music 
+can make you irritable and irrational and has been linked to disorders 
+of the nervous system and bowels.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Rimmer, no one takes any notice of that stuff.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Lister, if you want to dice with death, fine, 
+but don't poison my sound waves.  Off!
+
+[:np] [:ra 245]
+The music stops.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Why don't you listen to something really classical, 
+like Mozart, Mendelssohn, or Motorhead?
+
+[:np] [:ra 245]
+Lister climbs into his bunk.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   I think I've gone videoblind.  Is that painting 
+yours?  It's rubbish!
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   It's a mirror.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   I need some sleep.  [:np] [:ra 245]
+Lies down in his bunk.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Rimmer, do you, ah, do you remember Christine 
+Kochanski?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Navigation officer?  Yes, I remember her.  Snooty 
+cow.  She used to look down on me.  She used to call me Rimmer.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Everybody called you Rimmer.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Well, it's the way she said it, though.  Rimmer.  Rimmer, 
+to rhyme with `scum.  God, she had a chip on her shoulder, Lister.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Oh yeah?  Well, I want to go on a date with her.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Tough.  She's dead.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   For just one night
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Nope.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I want to turn you off
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Nope.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   For just four hours
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Nope.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   And spend an evening with her hologram.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Nope.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Look, I know you're worried I won't turn you 
+back on
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Nope.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   But I promise, I swear, if you tell me where 
+you've hidden the hologram disks
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Nope.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Oh, you're not even prepared to discuss it.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   We are discussing it, Lister.  What's this, if 
+it's not a discussion?  A diesel locomotive?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Rimmer, I promise, I *swear* I'll turn you back 
+on!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Is that it, Lister?  Is that the entire proposal?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Yes.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Well, Lister
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   No, think about it seriously, don't just dismiss 
+it.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   All right, all right, I'll think about it.
+
+[_<1400>] 
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   You're just going to say no.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Don't interrupt!  I'm thinking about it.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   But you're just going to say no.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Not necessarily.  I'm mulling it over.
+
+[_<1000>]
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   [yx<400>eh<40>_<150>] no.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Look, what is it, man?  Don't you trust me?
+
+[:np] [:ra 245]
+rimmer Mimes holding up an imaginary card.
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Black card, 
+Lister.  I'm holding up a black card.  Conversation over.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I've always been crazy about her.  I never did 
+anything about it.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Oh, Lister, you've forgotten the colour code.  White.  The 
+white card is to continue the discussion, but this is a black card 
+situation. Discussion over.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Listen
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Da da da, black card, black card, black card, 
+da da da, black card
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I was talking about something else!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   White card.  Go on.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Right, for a start, I want to stop all this black 
+card and white card smeg, it's driving me crazy.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Black card.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Oh, for four hours!  I want to spend an evening 
+with her hologram! What's so wrong with that?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   You don't know when to stop, do you, Lister?  I'm 
+your superior.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Technician was the lowest rank on this ship.  The 
+man who changed the bog rolls was higher than us!
+
+[:np] [:ra 245]
+rimmer Loses his temper and stands up to look Lister 
+in the face.
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Yes, well he's not here now, Lister, and we are, and 
+there's still a pecking order, and I'm pecking you, baby!
+[:np] [:ra 245]
+
+Also climbing out of his bunk;
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]  OK, Rimmer.  OK.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   OK?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   OK.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Is that a threat, Lister?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Yeah.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Actually, `OK, Lister, is not a threat, technically 
+speaking.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   It is when you mean it to mean what I mean it 
+to mean, and I mean it to mean, OK, Rimmer, [ow<200>_<200>] k!
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   No, Lister, `OK is never a threat, no matter 
+how many A's you put on the end.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I'm going to pass the exams and become an officer.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Oh, come on, wise up, Lister!
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   You'll have to salute me, Rimmer!  You'll have 
+to call me `sir! You'll have to give me Kochanski!  And me cigarettes!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   And on that day, Lister, Satan will be skating 
+to work.
+
+[_<800>]
+[:np] [:ra 245]
+Their cabin, presumably the next day.  Rimmer wakes up.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Lister!  Rise and shine, el slobbo!  [:np] [:ra 245]
+Leaps out 
+of his bunk and starts doing exercises.
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Come on, I've been awake 
+for hours, Lister!  Up, up, up!  Come on!  Exercise, Lister!  Exercise, 
+sonny boy!  [:np] [:ra 245]
+Finally notices that Lister's bunk is empty.  Looks at 
+the clock.
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Quarter to two? I didn't set my motivator!  I was supposed 
+to be up at seven!  Why didn't he wake me?  He knows I'm a heavy sleeper.  Have 
+I got to remind him to do everything for me?  He's so irresponsible.  Holly, 
+give me a cold shower, will you, please?
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   Certainly, Arnold.
+
+[:np] [:ra 245]
+There is the sound of a shower running, and Rimmer begins to shiver.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Not that cold!  Hotter!  Hotter!  Aaahhh!* [:np] [:ra 245]
+Leaps 
+to one side, out of the virtual shower.
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  Not that hot!  Just forget 
+it.  Can you give me a clean uniform?  Perhaps you can manage that?  [:np] [:ra 245]
+His 
+underwear is replaced by a uniform. 
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Thank you, Holly.  Where's Lister?  [:np] [:ra 245]
+rimmer Suddenly 
+notices that something is wrong.  His right arm is a lot hairier than 
+it was a moment ago. 
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Er, Holly, where's my arm?  This isn't my arm.  Whose 
+arm is this?
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   I'm sorry, Arnold.  [:np] [:ra 245]
+ but He doesn't sound very sorry.
+[:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220] Your physical data disk has become corrupted.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Don't give me excuses, give me my arm back.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   I'll have to refresh the graphics from a backup.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   It's got tattoos.  `Candy. `Denmark forever. 
+Is this Petersen's arm, Holly?  I've got the arm of a Danish moron.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   If you'll just bear with me for a few minutes, 
+Arn.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   It's not good enough, Holly.  It's traumatic 
+enough being dead. [:np] [:ra 245]
+Looks in the mirror. 
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] And whose ears are these, 
+Holly?  They're like two giant radar dishes stuck higgledy-piggledy 
+to the side of my head.  I mean, just look at them!  Look at them!  Whose 
+were these ears, Holly?  AN African elephant's?
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   They're your ears, Arnold.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Er, it must have been the way I slept.  I haven't 
+got time for this.  Where's Lister?
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   That information is security protected.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   What's he doing?  [:np] [:ra 245]
+Walks out.
+
+[_<800>]
+[:np] [:ra 245]
+The bridge.  The Cat is sitting at one of the consoles, eating.  He 
+finishes the meal and goes over to the food dispenser for another.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   [m<100,13>m<100,15>m<300,17>_<200>]
+[:nf] [:dv br 0 sm 0 bf 0 hr 0 sr 1]  [:ra 220]    Hello.  How can I help you?
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   Fish.
+
+ [:nf] [:dv br 0 sm 0 bf 0 hr 0 sr 1]  [:ra 220]    Today's fish is trout a la creme.  [:np] [:ra 245]
+Produces 
+a dish.
+[:nf] [:dv br 0 sm 0 bf 0 hr 0 sr 1]  [:ra 220]   Enjoy your meal.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   Fish.
+
+ [:nf] [:dv br 0 sm 0 bf 0 hr 0 sr 1]  [:ra 220]    Today's fish is trout a la creme.  [:np] [:ra 245]
+Produces 
+a dish.
+[:nf] [:dv br 0 sm 0 bf 0 hr 0 sr 1]  [:ra 220]   Enjoy your meal.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   Fish.
+
+ [:nf] [:dv br 0 sm 0 bf 0 hr 0 sr 1]  [:ra 220]    Today's fish is trout a la creme.  [:np] [:ra 245]
+Produces 
+a dish.
+[:nf] [:dv br 0 sm 0 bf 0 hr 0 sr 1]  [:ra 220]   Enjoy your meal.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   Fish.
+
+ [:nf] [:dv br 0 sm 0 bf 0 hr 0 sr 1]  [:ra 220]    Today's fish is trout a la creme.  [:np] [:ra 245]
+Produces 
+a dish.
+[:nf] [:dv br 0 sm 0 bf 0 hr 0 sr 1]  [:ra 220]   Enjoy your meal.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   Fish.
+
+ [:nf] [:dv br 0 sm 0 bf 0 hr 0 sr 1]  [:ra 220]    Today's fish is trout a la creme.  [:np] [:ra 245]
+Produces 
+a dish.
+[:nf] [:dv br 0 sm 0 bf 0 hr 0 sr 1]  [:ra 220]   Enjoy your meal.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   Fish.
+
+ [:nf] [:dv br 0 sm 0 bf 0 hr 0 sr 1]  [:ra 220]    Today's fish is trout a la creme.  [:np] [:ra 245]
+Produces 
+a dish.
+[:nf] [:dv br 0 sm 0 bf 0 hr 0 sr 1]  [:ra 220]   Enjoy your meal.
+
+[:np] [:ra 245]
+He heads back to his seat with the six bowls. 
+[:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250] I 
+will.
+
+[:np] [:ra 245]
+Rimmer enters.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Lister?  Where's Lister?
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   They're mine!  The fish is mine!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   I don't want your fish, you stupid cat.  Where's 
+Lister?
+[:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250] [gr<200>rr<200>rr<800>!]
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Idiot.  Holly?  As senior rank aboard this ship, 
+I order you to tell me where he is.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   I've told you.  I can't.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Holly, that's an order, you stupid ugly goit!
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   Ugly?  I'll have you know I chose this face out 
+of the billions available because it happened to be the face of the 
+greatest and most prolific lover who ever lived.  [:np] [:ra 245]
+Sticks out his 
+tongue at Rimmer.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Really?  Well he must have operated in the dark 
+a lot.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   You what?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   And when are you going to give me my own arm 
+back?  I refuse to walk around all day with Petersen's arm.  You know 
+what he was like.  God only knows where this arm's been.
+
+[:np] [:ra 245]
+The arm suddenly slaps him in the face.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Ahh!  What's he doing?
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   Beats me, Arnie.  Seems to have a mind of its 
+own.
+
+[:np] [:ra 245]
+The arm sticks out two fingers and goes for Rimmer's eyes.  He grabs 
+it with his other hand and tries to stop it.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Tell him to stop it!
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   What is this?  A cabaret?  Entertainment while you 
+eat?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   No, no, no, no!
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   Hey, can you place bets?  My bet is on *this* arm!  
+
+[:np] [:ra 245]
+The arm finally succeeds in jabbing Rimmer in the eyes.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Aagh! 
+[:np] [:ra 245]
+A bit late, he finally thinks of putting 
+his hand over his eyes.  The other arm continues trying to jab at 
+them. 
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Holly, you're absolutely gorgeous and handsome and delicious, 
+*please* tell him to stop it.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   All right.  Just give me a couple of seconds.
+
+[:np] [:ra 245]
+Petersen's arm gives up jabbing at Rimmer's other hand, trying to 
+reach his eyes.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Ah, look at that.  I've outwitted him.  He's 
+given up.  Look, he's given up.
+
+[:np] [:ra 245]
+The hand suddenly jabs Rimmer in the goolies.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  [uw<1600>!]
+[:np] [:ra 245]
+He doubles up in pain, and the arm takes the opportunity to punch 
+him in the head.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   There.  Done it.  Just in time.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   Hey!  That was good!  You should have finished on 
+a song, it would have been perfect.
+
+[:np] [:ra 245]
+Still doubled up on the floor. 
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] I hate everything.
+
+[_<800>]
+
+[:np] [:ra 245]
+Quick outside shot, then a corridor.  Rimmer walks along, rubbing 
+his head, and one or two other portions of his anatomy.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Oohh.  Where is Lister, the little worm?
+
+[_<650>]
+[:np] [:ra 245]
+The ship's cinema.  The Skutters are watching a Western.  Rimmer 
+enters.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Lister.  Listy, Listy, Wisty, Lister [_<300>] I know 
+you're here, Lister, you're always here Sunday afternoons.  [:np] [:ra 245]
+Notices 
+the Skutters. 
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] What are you two doing here?  Skutters don't have time 
+off!
+
+[:np] [:ra 245]
+They hold up a brush and shovel.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   You really must think I'm stupid.  I'll deal 
+with you two later.
+
+[:np] [:ra 245]
+He leaves.  One of the Skutters gives him the two fingered salute.  He 
+runs back in, but they both manage to look innocent.
+
+[_<650>] 
+[:np] [:ra 245]
+The teaching room.  Lister is watching a training video, making notes, 
+and drinking beer.  Rimmer enters.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   You're serious about this, Lister, aren't you?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Go away.  I'm busy.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Off!
+
+[:np] [:ra 245]
+The video stops.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   You seriously believe that a piece of fungus 
+like you has got the stuff to become an officer?  You've got the brains 
+of diarrhoea and the breeding of a maggot.  I mean, what are you writing 
+on, Lister?  The inside of a chocolate wrapper!  I mean, come on, 
+where's your loose leaf files? Where's your pencil?  Where's your 
+protractor and your hole reinforcers?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Rimmer, I'm going to pass this exam by *knowing* 
+things.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   OK, what's a porous circuit?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Don't know.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   How do you calculate acceleration?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Don't know.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Oh, this is sad!  What's Boyle's Fourth Law?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Don't eat greasy food?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   These are basic engineering precepts, Lister!  How 
+do you expect to pass the engineering exam?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I don't.  I expect to pass the chef's exam.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Chef?  You want to become a chef?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Not really.  I just want to become your superior.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   But a chef?  A white hatted ponce?  That's not 
+a real officer!
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   It outranks you, smeg for brains!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   And Lister, 
+what's this? Learning drugs?  They're illegal, maitey!  I'm afraid 
+you're in very serious, grave, deep trouble, Lister.  Where did you 
+get them?  I want names, I want places, I want dates.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Arnold Rimmer, his locker, this morning.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Why am I worried?  You'll never stick at it.  You'll 
+never pass.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Say, `You'll never pass, mister Lister, sir! Practice, 
+Rimmer.  Makes perfect.
+
+[:np] [:ra 245]
+Rimmer looks daggers at him, then walks out.
+
+[_<650>]
+Their cabin.  Rimmer is pacing up and down while one of the Skutters 
+holds a textbook and the other writes things down in an exercise book 
+at Rimmer's command.  The Cat is lying on one of the bunks.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Question four.  Underline that.  `What does the 
+red spectrum tell us about quasars?
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]    Oooooohhhhhh, I'm going to die, 
+I've been fished to death!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   My answer.  In answering the question, `What 
+does the red spectrum tell us about quasars? [_<400>] write bigger [_<400>] there 
+are various words that need to be defined.  What is a spectrum, what 
+is a red one, why is it red, and why is it so frequently linked with 
+quasars?  [_<600>] What the hell is a quasar?  Just 
+put a neat cross through it and we'll do the next one, OK?
+
+[:np] [:ra 245]
+We hear Lister singing (if that's the right word for it) as he approaches.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   And I think that confidently and concisely answers 
+the question, `What does the red spectrum tell us about quasars?
+
+[:np] [:ra 245]
+Lister enters, bearing an impressively iced cake.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Da-daaaaaa!
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Lister!  Did you make that?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Yeah.  It's not that good, it was supposed to 
+be roast beef.  Do you want some, Cat?  It's got some real cream and 
+fudge in it.
+
+ [:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250]   Gaaahhh.  I think I'm going to have to go and do 
+something secret. [:np] [:ra 245]
+Jumps down from the bunk, and immediately regrets 
+it. 
+[:np] [:dv sm 1 hs 90  br 0 ri 0 la 0] [:ra 250] Aaahhh!  Look out! Food escape!  [:np] [:ra 245]
+Staggers out the door and down 
+the corridor.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Well, Lister.  You're doing all right, yeah?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Not bad.  Not bad at all.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Listen, Lister.  All this tension between us 
+is stupid.  There's just no need for it.  I mean, you're tense, and 
+I'm tense, and there's just absolutely no need for it.
+
+[:np] [:ra 245]
+lister is Chowing down with his cake and a can of beer.
+
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30] I'm not tense.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Of course you're tense, you rectum-faced pygmy!  [:np] [:ra 245]
+Recovers 
+his composure. 
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] Sorry, I'm sorry, I'm sorry, I'm sorry.  I mean, there's 
+no need for you to be slogging your guts out.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I'm enjoying it.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Shut up.  Doing an exam, and doing so well.  There's 
+absolutely no need for it, Lister.  You can have the cigarettes, they're 
+in pipeline 22.
+
+[:np] [:ra 245]
+lister holds up a packet. 
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30] I know.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Good.  The cat betrayed me.  I don't mind.  I'm 
+delighted.  What I'm saying, Lister, is there's 
+no need for us to be at loggerheads.  We're mates.  We're pals.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Since when?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Oh, come on, Lister!  Laugh, laugh, laugh, chuckle, 
+guffaw, giggle!  That's Rimsy and Listy!
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   When?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Millions of times!
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   *When?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Ah [_<400>] ah, how about the time 
+your safety harness snapped and you fell into the cargo bay?  We laughed 
+then, didn't we?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I broke me spine in three places.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Yes, but it was hilarious!  We laughed like drains!
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   You laughed.  I spent six weeks in traction.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Yes, that's right, that's right!  And you spent 
+the rest of the summer walking around like a croquet hoop!  Oh, I 
+laughed so hard I nearly puked, I really did.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   What are you saying to me, Rimmer?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   I'm just saying, Lister, that 
+with times as good as those, there's no point in letting something 
+small and silly like this come between a friendship that we've nurtured 
+like a small flower, petal by petal, and watched blossom and bloom 
+into something rare and special.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   OK, give me Kochanski.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Smeg off, dishwasher-breath!  You won't turn 
+me back on!
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   What, Rimsy-Wimsy-Mimsy, me bestest ever pal?
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   All right, Lister, I *order* you not to take 
+those exams!
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Black card, Rimmer.  [:np] [:ra 245]
+Holds up a real black card.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   *You* are black-carding *me?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   That's only the beginning, Rimmer.  When I pass 
+the exams and become an officer, you'll be on latrines.  You'll have 
+the three o'clock watch every morning.  I know you'll obey me, because 
+you, I mean you, respect all that officer smeg.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   If you mean I respect my superiors no matter 
+who they are, and I obey orders blindly and unquestioningly, yes, 
+yes I do!
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   That's exactly what I mean.  Anyway, got to get 
+some sleep, hard days revision on the morrow.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   You always become the thing you hate the most.  Look 
+at you, Lister.  Obnoxious, ruthless, single-minded, insensitive.  You're 
+more like me than I am.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Rimmer, you've forgotten the colour code.  This 
+is a black card situation, end of conversation.  [:np] [:ra 245]
+Sticks his finger 
+in the cake icing and paints an H on his own forehead, like rimmers [_<400>] note: rimmer has an H on his forhead to show he's a hologram. 
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30] You never 
+learn, do you?
+
+[_<800>] 
+[:np] [:ra 245]
+Outside shot of the ship, then cut to the bridge.  Rimmer is pacing 
+up and down, while Lister relaxes in a chair, reading a zero G football 
+magazine and eating a bun.
+
+ [:np] [:dv as 0 bf 0 la 20 nf 00 ri 100 sm 0 hr 0 sr 0] [:ra 220]   Chef Part 1 examination.  Please 
+proceed to the teaching room.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   You're not ready for it, you know.  Look at you.  You 
+should be doing last second revision.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I am.  I'm revising buns.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   I mean, it's obscene!  Missing the entire first 
+minute of the exam!
+[:np] [:ra 245]
+
+ he Eventually finishes the bun, puts down the magazine, 
+and goes to leave. 
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30] OK, here we go.
+[:np] [:ra 245]
+
+rimmer Stands in the doorway.
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]  No.  You can't do this 
+to me, Lister.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Give me Kochanski.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   No.
+[:np] [:ra 245]
+
+Lister walks straight through him.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   That was a lousy thing to do to a hologram.  Have 
+you no respect for the dead?
+
+[_<650>]
+[:np] [:ra 245]
+The teaching room; the chef's exam is in progress.  Lister is preparing 
+something.  The microwave pings, and he turns around to lift a dish 
+out. Behind him, Kochanski, or rather a hologram of Kochanski, walks 
+into the room.  Lister turns around, sees her, and freezes with a 
+look of idiotic amazement on his face.
+
+ [:nb]   Hello, David.
+[:np] [:ra 245]
+
+Lister just stands there staring at her.  Eventually, he realises 
+he's still holding a very hot dish.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   *Aaahhh! 
+[:np] [:ra 245]
+Drops the dish and clutches at his 
+hands. 
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30] [iyiyiy!ahahah!uwuwuw!] I'm just doing this errmm, I'm taking this 
+errmm, this is a surprise.
+
+ [:nb]   Dave, why didn't you just tell me how you 
+felt about me when I was still alive?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   [kahz] I'm a dope.  And I'm a bum, and I'm stupid, 
+and I'm an idiot, and I'm hopeless, and I'm useless.
+
+ [:nb]   I'm sorry, but I just don't like you.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Oh, hey.  I'm really embarrassed now.  I don't 
+know what to say.
+
+ [:nb]   I suppose it's sort of pointless you doing 
+the exam now.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Well, yeah.  It's sort of pointless me breathing 
+in and out, if you want to know the truth.
+
+ [:nb]   I could never love anyone like you, so you 
+might as well pack up your pots and pans and off you go.  I need a 
+man who's going places. Up, up, up the ziggurat, lickety-split.
+[:np] [:ra 245]
+
+lister is Suddenly suspicious. 
+[:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30] So, it didn't mean anything 
+to you, then?
+
+ [:nb]   What didn't?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   You know, when we made love on the snooker table 
+behind the bins.
+
+ [:nb]   You never told me that.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   I thought you might have noticed.
+
+ [:nb]   Oh yes!  Yes, I remember now!
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   We've never made love.  Go away, Rimmer.
+
+[:nb]  Look, look, I'm a bit out of sorts 
+at the moment.  I'm having a woman's period.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   A woman's period?  Women don't speak like that!  Give 
+me a break! I don't know how you've done it, Rimmer, but that is not 
+Kochanski.
+
+[:nb]  It's Kochanski's body.  It's Kochanski's 
+voice.  I mean, what's the difference?  Come on!
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   The difference is that *you're* in there!  Ugh!  [:np] [:ra 245]
+Shudders 
+in horror.
+
+[:nb]  Well, you can't blame me for trying.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Leave!
+
+[:np] [:ra 245]
+Looking down the front of her / his 
+shirt. 
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] I've seen something you haven't, squire.  OK, Holly, swap 
+disks.
+
+[:np] [:ra 245]
+Kochanski transforms into Rimmer [_<200>] mostly.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Er, Holly, this is not my breast.  I want my own nipple 
+back, thank you.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   *Leave, Rimmer!
+
+[:np] [:ra 245]
+Fondling his new breast. 
+[:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220] There's no rush, Holly.  [:np] [:ra 245]
+he Walks
+out.
+
+
+
+[_<800>]
+[:np] [:ra 245]
+The corridor outside the teaching room.  Rimmer walks past, with 
+a peculiar wiggle in his posterior.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   Holly, are you *sure* these are my hips?
+
+[:np] [:ra 245]
+Lister comes out of the teaching room and walks up to a service terminal.
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]   Lister 169-12-14-6.
+
+[:np] [:ra 245]
+The terminal produces an envelope, which Lister picks up.  Rimmer 
+is watching eagerly.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   How did you do?
+
+[:np] [:ra 245]
+Lister opens the envelope and reads the message inside.  There's 
+no indication from his expression of whether it contains good news 
+or bad.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   How did you do?
+
+[:np] [:ra 245]
+Lister walks off.  Rimmer calls after him.
+
+ [:nf] [:dv br 0 la 0 sr 100 hr 100 ap 150 pr 95] [:ra 220]   How did you do, Lister?
+
+ [:nf] [:ra 240] [:dv br 0 hs 95 ap 100 as 100 pr 220 hr 30 sr 30]    How did I do, mister Lister, 
+*sir!  [:np] [:ra 245]
+Jumps in the air.
+
+[_<800>]
+the end

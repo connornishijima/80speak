@@ -1,0 +1,468 @@
+[:nk]                                 Who's On First
+                     (Sketch by Bud Abbott and Lou Costello)
+ 
+[:nh]  Hey Abbott.
+ 
+[:np]    What do want Costello?
+ 
+[:nh]  Look Abbott.  I understand that you're going to be the manager of
+           the Lou Costello Junior Youth Foundation baseball team.
+ 
+[:np]    Yes.  We just organized the thing.
+ 
+[:nh]  Oh you did?
+ 
+[:np]    Sure!
+ 
+[:nh]  Well I'd like to play on the team myself, you know, I know something
+           about baseball.
+ 
+[:np]    Well that can be accomplished.
+ 
+[:nh]  Well I'd like to know some of the guys names on the team, so that
+           when I meet them on the street or in the ball park, I'll be able to
+           say hello to them.
+ 
+[:np]    Well surely I'll introduce you to the boys.  But, you know strange
+           as it may seem, they give these ballplayers, nowadays, very
+           peculiar names.
+ 
+[:nh]  You mean funny names?
+ 
+[:np]    Nicknames.  Pet names.  Like Dizzy Dean.
+ 
+[:nh]  Brother Daffy.
+ 
+[:np]    Daffy Dean.
+ 
+[:nh]  I'm their french cousin.
+ 
+[:np]    French cousin?
+ 
+[:nh]  Goofe'.
+ 
+[:np]   Take me out to the Ball game, Take me out to
+       the crowd. Buy me some peanuts and...
+[:nh]   Peanuts! Popcorn! Get your Popper Jacks Here! Peanuts!
+ 
+[:np]   Sebastian! Sebastian, get over here. Pardon him folks.
+       What do you think your doing?
+ 
+[:nh]   I wanted the people to feel like they were in the ball
+       park, because
+ 
+[:nh]   I  love baseball.  When we get to Saint Louis, will you tell
+       me the guys' name on the team so when I go to see them  in
+       that  Saint Louis  ball  park  I'll be able to know those
+       fellows?
+ 
+[:np]   All right.  but you know, strange as it may  seems,  they
+       give ball players nowadays very peculiar names, nick names,
+       like "Dizzy Dean."
+ 
+[:nh]   Not as peculiar as mine.... Sebastian Dimwitty
+ 
+[:np]   Oh Yes.
+ 
+[:nh]   They got names funnier than mine? WOOOOOOOooo
+ 
+ 
+[:np]   Oh Absolutely.
+ 
+[:np]   Now on the Saint Louis team we have Who's on first,
+       What's on second, I Don't Know is on third
+ 
+[:nh]   That's what I want to find out.  I want you to tell me the
+       names of the fellows on the Saint Louis team.
+ 
+[:np]   I'm telling you.  Who's on first, What's on second, I Don't
+       Know is on third
+ 
+[:nh]   You know the fellows' names?
+ 
+[:np]   Yes.
+ 
+[:nh]   Well, then who's playin' first
+ 
+[:np]   Yes
+ 
+[:nh]   I mean the fellow's name on first base.
+ 
+[:np]   Who.
+ 
+[:nh]   The fellow playin' first base for Saint Louis.
+ 
+[:np]   Who.
+ 
+[:nh]   The guy on first base.
+ 
+[:np]   Who is on first
+ 
+[:nh]   Well, what are you askin' me for?
+ 
+[:np]   I'm not asking you  I'm telling you.  WHO IS ON First
+ 
+[:nh]   I'm asking you who's on first?
+ 
+[:np]   That's the man's name!
+ 
+[:nh]   That's who's name?
+ 
+[:np]   Yes.
+ 
+[:nh]   Well, go ahead and tell me.
+ 
+[:np]   Who.
+ 
+[:nh]   The guy on firSt
+ 
+[:np]   Who.
+ 
+[:nh]   The first baseman.
+ 
+[:np]   Who is on first
+ 
+[:nh]   Have you got a first baseman on first?
+ 
+[:np]   Certainly.
+ 
+[:nh]   Then who's playing first?
+ 
+[:np]   Absolutely.
+ 
+[:nh]    When you pay off the first baseman every month, who
+       gets the money?
+ 
+[:np]   Every dollar of it.  And why not, the man's entitled to it.
+ 
+[:nh]   Who is?
+ 
+[:np]   Yes.
+ 
+[:nh]   So who gets it?
+ 
+[:np]   Why shouldn't he?  Sometimes his  wife  comes  down  and
+       collects it.
+ 
+[:nh]   Who's wife?
+ 
+[:np]   Yes.  After all the man earns it.
+ 
+[:nh]   Who does?
+ 
+[:np]   Absolutely.
+ 
+[:nh]   Well all I'm trying to find out is what's the guys name on
+       first base.
+ 
+[:np]   Oh, no, no, What is on second base.
+ 
+[:nh]   I'm not asking you who's on second.
+ 
+[:np]   Who's on first
+ 
+[:nh]   That's what I'm trying to find out.
+ 
+[:np]   Well, don't change the players around.
+ 
+[:nh]   I'm not changing nobody.
+ 
+[:np]   Now, take it easy.
+ 
+[:nh]   What's the guy's name on first base?
+ 
+[:np]   What's the guy's name on second base.
+ 
+[:nh]   I'm not asking whos on second.
+ 
+[:np]   Who's on first
+ 
+[:nh]   I don't know.
+ 
+[:np]   He's on third.  We're not talking about him.
+ 
+[:nh]   How could I get on third base?
+ 
+[:np]   You mentioned his name.
+ 
+[:nh]   If I mentioned the third baseman's name, who did I say  is
+       playing third?
+ 
+[:np]   No, Who's playing first
+ 
+[:nh]   Stay offa first, will ya?
+ 
+[:np]   Well what do you want me to do?
+ 
+[:nh]   Now what's the guy's name on first base?
+ 
+[:np]   What's on second.
+ 
+[:nh]   I'm not asking ya who's on second.
+ 
+[:np]   Who's on first
+ 
+[:nh]   I don't know.
+ 
+[:np]   He's on third.
+ 
+[:nh]   There I go back on third again.
+ 
+[:np]   Well, I can't change their names.
+ 
+[:nh]   Say, will you please stay on third base.
+ 
+[:np]   Please.  Now what is it you want to know.
+ 
+[:nh]   What is the fellow's name on third base.
+ 
+[:np]   What is the fellow's name on second base.
+ 
+[:nh]   I'm not askin' ya who's on second.
+ 
+[:np]   Who's on first
+ 
+[:nh]   I don't know.
+ 
+[:np]   THIRD BASE!
+ 
+[:nh]   You got an outfield?
+ 
+[:np]   Oh, sure.
+ 
+[:nh]   Saint Louis has got a good outfield?
+ 
+[:np]   Oh, absolutely.
+ 
+[:nh]   The left fielder's name?
+ 
+[:np]   Why.
+ 
+[:nh]   I don't know, I just thought I'd ask.
+ 
+[:np]   Well, I just thought I'd tell you.
+ 
+[:nh]   Then tell me who's playing left field.
+ 
+[:np]   Who's playing first
+ 
+[:nh]   Stay out of the infield!
+ 
+[:np]   Don't mention any names out here.
+ 
+[:nh]   I want to know what's the fellow's name on left field?
+ 
+[:np]   What is on second.
+ 
+[:nh]   I'm not askin' ya who's on second.
+ 
+[:np]   Who is on first
+ 
+[:nh]   I don't know.
+ 
+[:np]     Third base.
+ 
+[:nh]   And the left fielder's name?
+ 
+[:np]   Why.
+ 
+[:nh]   Because.
+ 
+[:np]   Oh he's Center Field.
+ 
+[:nh]    Center field.
+ 
+[:np]   Yes.
+ 
+[:nh]   Wait a minute.  You got a pitcher on this team.
+ 
+[:np]   Wouldn't this be a fine team without a pitcher.
+ 
+[:nh]   I don't know.  Tell me the pitcher's name.
+ 
+[:np]   Tomorrow.
+ 
+[:nh]   You don't want to tell me today?
+ 
+[:np]   I'm telling you, man.
+ 
+[:nh]   Then go ahead.
+ 
+[:np]   Tomorrow.
+ 
+[:nh]   What time?
+ 
+[:np]   What time what?
+ 
+[:nh]   What time tomorrow are you gonna tell me who's pitching?
+ 
+[:np]   Now listen, Who is not pitching.  Who is on
+ 
+[:nh]   I'LL BREAK YOU ARM IF YOU SAY "WHO'S ON FIRST!"
+ 
+[:np]   Then why come up here and ask?
+ 
+[:nh]   I want to know what's the pitcher's name.
+ 
+[:np]   What's on second.
+ 
+[:nh]   I don't know.
+ 
+[:np]      THIRD BASE!!
+ 
+[:nh]   You gotta Catcher?
+ 
+[:np]   Yes.
+ 
+[:nh]   The Catcher's name?
+ 
+[:np]   Today.
+ 
+[:nh]   Today.  And Tomorrow's pitching.
+ 
+[:np]   Now you've got it.
+ 
+[:nh]   That's all.  Saint Louis has a couple of days on their team.
+ 
+[:np]   Well I can't help that.
+ 
+[:nh]   You know I'm a good catcher too.
+ 
+[:np]   I know that.
+ 
+[:nh]   I would like to play for the Saint Louis team.
+ 
+[:np]   Well I might arrange that.
+ 
+[:nh]   I would like to catch.  Now I'm being a good Catcher,
+       tomorrow's pitching on the team, and I'm catching.
+ 
+[:np]   Yes.
+ 
+[:nh]   Tomorrow throws the ball and the guy up bunts the ball.
+ 
+[:np]   Yes.
+ 
+[:nh]   Now when he bunts the ball me being a good catcher  I
+       want  to  throw the guy out a first base, so I pick up the
+       ball and throw it to who?
+ 
+[:np]   Now that's the first thing you've said right.
+ 
+[:nh]   I DON'T EVEN KNOW WHAT I'M TALKING ABOUT!!!!!
+ 
+[:np]   Well, that's all you have to do.
+ 
+[:nh]   is to throw it to first base.
+ 
+[:np]   Yes.
+ 
+[:nh]   Now who's got it?
+ 
+[:np]   Naturally.
+ 
+[:nh]   Who has it?
+ 
+[:np]   Naturally.
+ 
+[:nh]   Naturally.
+ 
+[:np]   Naturally.
+ 
+[:nh]   O.K.
+ 
+[:np]   Now you've got it.
+ 
+[:nh]   I pick up the ball and I throw it to Naturally.
+ 
+[:np]   No you don't you throw the ball to first base.
+ 
+[:nh]   Then who gets it?
+ 
+[:np]   Naturally.
+ 
+[:nh]   O.K.
+ 
+[:np]   All right.
+ 
+[:nh]   I throw the ball to Naturally.
+ 
+[:np]   You don't you throw it to Who.
+ 
+[:nh]   Naturally.
+ 
+[:np]   Well, naturally.  Say it that way.
+ 
+[:nh]   That's what I said.
+ 
+[:np]   You did not.
+ 
+[:nh]   I said I'd throw the ball to Naturally.
+ 
+[:np]   You don't.  You throw it to Who.
+ 
+[:nh]   Naturally.
+ 
+[:np]   Yes.
+ 
+[:nh]   So I throw the ball to first base and Naturally gets it.
+ 
+[:np]   No.  You throw the ball to first base
+ 
+[:nh]   Then who gets it?
+ 
+[:np]   Naturally.
+ 
+[:nh]   That's what I'm saying.
+ 
+[:np]   You're not saying that.
+ 
+[:nh]   I throw the ball to Naturally.
+ 
+[:np]   You throw it to Who!
+ 
+[:nh]   Naturally.
+ 
+[:np]   Naturally.  Well say it that way.
+ 
+[:nh]   THAT'S WHAT I'M SAYING!
+ 
+[:np]   Now don't get excited.
+ 
+[:nh]   Who's gettin' excited!!  I throw the ball to first base
+ 
+[:np]   Then Who gets it.
+ 
+[:nh]   HE BETTER GET IT!
+ 
+[:np]   That's it.  All right now. Take it easy.
+ 
+[:nh]   Hummmmph!
+ 
+[:np]   Hummmmph!
+ 
+[:nh]   Now I throw the ball to first base,  whoever it is grabs
+       the ball, so the guy runs to second.
+ 
+[:np]   Uh huh.
+ 
+[:nh]   Who  picks up the ball and throws it to what.  What throws
+       it to I don't know.  I don't know throws it back to
+       tomorrow  a triple play.
+ 
+[:np]   Yeah.  It could be.
+ 
+[:nh]   Another  guy  gets up and it's a long fly ball to center.
+       Why?  I don't know, he's on third, and I don't give a
+       damn.
+ 
+[:np]   What did you say.
+ 
+[:nh]   I said "I don't give a damn."
+ 
+[:np]   Oh, that's our shortstop!
+ 
+ 
+[:nk] he he he he. ha ha ha ha.  those guys are a crack up!
+[:nb] This old time radio classic was adapted for dectalk speech by Tom baccanti tdb@deltanet.com
+ 

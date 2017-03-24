@@ -1,0 +1,80 @@
+[:phone on]
+
+[:np]
+there are many things you can do with dectalk, singing just beeing one of them.
+[:nb]
+voices can have many affects,
+[:np] normaly horrible sounding  voices can be made better!
+
+[:nd]
+have you ever wondered what I would sound like,
+[:dv br 0]
+without all that breathyness?
+ahuh? i'm cool!
+[_<200>]
+[:nu]
+[:dv gf 0]
+
+or, perhaps, me with a slight headcold?
+yeh, i need a doctor, you see.
+[_<200>]
+[:np]
+[:dv gf 0]
+
+ursula! you sad person! now i've got your stupid cold and i sound like a  moron!
+[:nb]
+ha:
+[l<100>ah<700,8>l<100>ah<700,13>l<100>ah<700,17>l<100>ah<700,20>]
+[:nb]
+i'm fine! ha ha ha ha ha,  ha!
+[_<300>]
+[:nd]
+[:dv br 0]
+[zh<2000,8>]
+[zh<700,44>]
+[:np]
+dennis, what are you doing?
+[:nd]
+[:dv br 0]
+removing my breathyness permenantly!
+[_<400>]
+with your razor!
+[_<300>]
+[:np]
+[oy<1000,88>]
+[:np]
+[:dv qu 100 ap 150 pr 250]
+
+MINE!
+THAT WAS MY RAZOR! MINE MINE MINE! NAUTY! [_<100>] SUN OF A
+[_<300>]
+[:NB]
+NOW NOW, BOYS. NO LANGUAGE, AND IF your gunna fight, please take it away from us sencible women.
+[_<400>]
+[:np]
+[:dv qu 100 ap 150 pr 250]
+
+[:np]
+[d<100,17>eh<100>n<100>ih<100>s<100>]
+[ih<100>z<100>ah<200>]
+[m<100,13>or<400>ah<300>n<100>]
+[:nd]
+[:dv br 0]
+[p<100,20>ah<400>l<100>]
+[ih<100>z<100>ah<200>]
+[p<100,17>r<100>ae<300>~t<100>]
+[:np]
+[:dv qu 100 ap 150 pr 250]
+
+
+[d<100,13>eh<200>n<100>ih<100>s<100>]
+[yu<100,17>uw<300>z<100>d<100>m<100>ay<300>]
+[r<100,20>ey<800>z<300>rr<1000>]
+[_<300>]
+[:nb>]
+and?
+[_<300>]
+[:nd]
+[:dv br 0]
+[p<100,8>ah<400>l<100>]
+[ih<300,13>z<200>f<100>ae<1100>~t<100>]

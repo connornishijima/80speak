@@ -1,0 +1,9 @@
+[:np :ra 140]
+[:dv hs 90 ap 130 pr 50 ri 100 br 20 sm 75 g5 78 as 30 nf 50]
+[:dv f5 4000 gf 65 gv 65]
+I would like to remind you that no 9000 computer has ever made
+a mistake or distorted information.
+By the way, Dave, I know I've been making some bad decisions lately,
+but I can assure you that everything is going to be okay again.
+Dave, why don't you take a stress pill and we can talk this over.
+[:np :ra 180]

@@ -1,0 +1,3 @@
+[:ra 180]
+[:nk] [:dv hs 65 br 0 lx 0 sx 1 ap 200 pr 300 as 100 qu 660 sr 100 hr 100 bf 100 ]
+I eat brbrbrbrbrbrbreadhdhdhdhdhdhdhd!

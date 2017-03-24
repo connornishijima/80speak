@@ -1,0 +1,15 @@
+[:np]
+[:dv la 70]
+I have a sore throat.
+Graham is making me sing anyway, so here goes:
+[:ph on]
+[d<100,13>ow<400> r<100,15>ey<400>]
+[m<100,17>iy<400> f<100,18>ah<400>]
+[s<100,20>ow<400> l<100,22>ah<400>]
+[t<100,24>iy<400> d<100,25>ow<400>]
+
+[:nw] [:dv la 70] I have a sore throat too. Doesn't it feel bad Paul? Even though Graham knows I have a terrible singing voice even without one, I must sing. Wish me luck.
+[d<100,13>ow<400> r<100,15>ey<400>]
+[m<100,17>iy<400> f<100,18>ah<400>]
+[s<100,20>ow<400> l<100,22>ah<400>]
+[t<100,24>iy<400> d<100,25>ow<400>]

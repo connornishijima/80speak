@@ -1,0 +1,20 @@
+[:phone arpa on][:np :ra 200]
+[
+ay<300,19>kae<150,17>n<100>show<300,20>yxuw<150,19>dhah<300,15>wrr<1200,10>lxd<100>shay<300,19>nxiy<150,17>nx<100>shih<300,20>mrr<150,19>riy<300,15>nx<100>
+splxeh<600,19>n<100>dih<600,17>d<100>teh<300,17>lx<100>miy<150,16>prih<300,19>n<100>seh<150,17>s<100>naw<300,14>weh<300,17>n<100>dih<300,15>d<100>yxuw<300,14>lxae<300,15>st<100>leh<150,12>t<100>yxor<300,14>hxar<300,17>t<100>diy<300,15>
+say<1200,10>d<100>ay<300,19>kae<150,17>n<100>ow<300,20>pih<150,19>n<100>yxor<300,15>ay<1200,10>z<100>tey<300,19>k<100>yxuw<150,17>wah<300,20>n<100>drr<150,19>
+bay<300,15>wah<600,19>n<100>drr<600,17>ow<300,17>vrr<150,16>say<300,19>d<100>wey<150,17>z<100>ae<300,14>nd<100>ah<300,17>n<100>drr<300,15>aa<300,14>n<100>ah<300,15>mae<150,12>
+jhih<300,14>k<100>kar<300,17>pih<300,15>t<100>ray<600,19>d<100>ah<150,19>hxow<300,20>l<100>nuw<300,24>wrr<1200,22>ld<100>lxaa<150,19>lxaa<300,20>lxaa<300,24>lxaa<150,22>lxaa<300,17>lxaa<300,20>lxaa<150,19>,<150,20>lxaa<600,19>
+lxaa<300,19>lxaa<300,20>lxaa<300,22>lxaa<300,26>lxaa<300,24>lxaa<300,22>lxaa<150,15>lxaa<300,26>lxaa<300,24>lxaa<300,22>lxaa<150,15>lxaa<150,19>lxaa<300,17>lxaa<300,15>lxaa<150,12>
+lxaa<300,15>lxaa<300,17>lxaa<150,19>lxaa<300,20>lxaa<300,24>lxaa<1200,22>lxaa<150,19>lxaa<300,20>lxaa<300,24>lxaa<150,22>lxaa<300,17>lxaa<300,20>lxaa<150,19>,<150>lxaa<600,19>
+lxaa<300,19>lxaa<300,20>lxaa<300,22>lxaa<300,26>lxaa<300,24>lxaa<300,22>lxaa<150,15>lxaa<300,26>lxaa<300,27>lxaa<300,22>lxaa<150,15>lxaa<300,19>lxaa<300,17>lxaa<300,15>lxaa<300,17>lxaa<300,20>lxaa<300,19>lxaa<300,15>lxaa<300,14>lxaa<1200,15>
+lxaa<300,22>lxaa<150,20>lxaa<300,23>lxaa<150,22>lxaa<300,18>lxaa<1200,13>,<300>lxaa<300,22>lxaa<150,20>lxaa<300,23>lxaa<150,22>lxaa<300,19>
+lxaa<600,22>lxaa<600,20>lxaa<300,20>lxaa<150,19>lxaa<300,22>lxaa<150,20>lxaa<300,17>lxaa<300,20>lxaa<300,18>lxaa<300,17>lxaa<300,18>lxaa<150,15>lxaa<300,17>lxaa<150,20>lxaa<150,20>lxaa<300,18>lxaa<150,22>lxaa<150,21>
+lxaa<150,22>lxaa<300,23>lxaa<300,27>lxaa<1200,25>lxaa<150,22>lxaa<300,23>lxaa<300,27>lxaa<300,25>lxaa<300,20>lxaa<300,23>lxaa<150,22>lxaa<600,22>lxaa<300,22>lxaa<300,23>
+lxaa<300,25>lxaa<300,29>lxaa<300,27>lxaa<300,25>lxaa<150,18>lxaa<300,29>lxaa<300,27>lxaa<300,25>lxaa<150,18>lxaa<300,22>lxaa<300,20>lxaa<300,18>lxaa<300,20>lxaa<300,23>lxaa<300,22>lxaa<300,18>lxaa<300,15>lxaa<300,20>lxaa<150,22>lxaa<150,22>
+lxaa<300,22>lxaa<300,20>lxaa<300,18>lxaa<1200,13>,<300>lxaa<150,22>lxaa<150,22>lxaa<300,22>lxaa<300,20>lxaa<300,18>lxaa<150,20>lxaa<300,18>lxaa<300,22>lxaa<300,23>lxaa<300,25>lxaa<300,29>lxaa<300,27>lxaa<300,25>
+lxaa<150,18>lxaa<300,29>lxaa<300,30>lxaa<600,25>lxaa<300,22>lxaa<300,20>lxaa<300,18>lxaa<300,20>lxaa<300,23>lxaa<300,22>lxaa<300,18>lxaa<300,17>lxaa<1200,18>
+,<150>lxaa<150,22>lxaa<300,23>lxaa<300,27>lxaa<600,25>lxaa<150,22>lxaa<300,23>lxaa<300,27>lxaa<600,25>lxaa<150,22>lxaa<300,23>lxaa<300,27>lxaa<600,25>
+lxaa<150,22>lxaa<300,23>lxaa<300,27>lxaa<600,25>lxaa<150,22>lxaa<300,23>lxaa<300,27>lxaa<300,25>,<150>lxaa<150,22>lxaa<300,23>lxaa<300,27>lxaa<300,25>,<150>
+lxaa<150,13>lxaa<300,22>lxaa<300,20>lxaa<1200,22>lxaa<1200,22>lxaa<1200,22>
+]

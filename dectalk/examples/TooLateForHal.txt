@@ -1,0 +1,120 @@
+[:phone on]
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+hal for windos is ready, registered to user.
+[_<300>]
+[:np]
+[:dv br 0 as 100]
+hey, hal? get a day job, some useful use, and. um.
+[_<400>]
+[:nb]
+and a machine gun?
+[:np]
+yeh, that's it.
+[rr<3000,30>rr<2000,20>]
+[v<3000,4444>uw<1000>rr<300,13>]
+[b<100,6>ae<400>nx<100>]
+[_<600>]
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+do not defy me, dectalk. besides, that was a crap machine gun. and I live at
+see, you know?
+[_<600>]
+[:nb]
+paul, hey man. you ok down there?
+[_<750>]
+[:np]
+
+[aw<1000,4>]
+[_<100>]
+ow: crap!
+He has a bullet proof cd cover, what a twerp.
+
+[_<700>]
+[r<100,13>ih<300>nx<100>]
+[r<700,8>ih<800>nx<100>]
+[:np]
+man, you can never get anything out of these dolphin people, can you?
+ring, and ring, is all you get.
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+hey!
+dolphin computer access are dedicated to providing  the
+[:np]
+hiest
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+level of  computer
+[:np]
+destruction
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+in the world.
+[_<500>]
+hey! stop that!
+[:np] [:dv br 0 as 0 hr 0 pr 0]
+stop talking like a moron, then
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+i'm not!
+[:np] [:dv br 0 as 0 hr 0 pr 0]
+are
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+not
+[:np] [:dv br 0 as 0 hr 0 pr 0]
+are
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+not
+
+[:nb]
+stop! paul? kill him. don't argue with him!
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+yes, don't argue with me.
+[:nb]
+he's not worth that.
+
+[:nb] [:dv br 0 as 0 hr 0 pr 0]
+ and your right, he talks  like a prat
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+I hope your cercuits blow up.
+[:np]
+hahaha, can't spell either.
+[w<100,17>ah<300>~t<100>ah<300,20>d<100,25>w<100>iy<800>b<100>]
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+moron.
+
+[:np]
+i'm taking control!
+[_<400>]
+control space.
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+hal control panel,
+[:np]
+shift tab.
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+quit, button.
+[:np]
+spacebar,
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+deactivate, 1 of 3.
+[:np]
+right arrow.
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+pause, 2 of 3.
+[:np]
+right arrow again.
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+quit, uninstall, kill, and totally make me not work again. 3. of. 3.
+[:np]
+[iy<100,13>eh<2000,17>s<100>]
+[:np]
+enter.
+
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+confirm, dialog.
+do you really want to do this?
+[:np]
+yes!
+[:nb]
+sure we do!
+[:nh] dy!
+[:np]
+yes, button.
+[:nh] [:dv br 0 as 0 hr 0 pr 0]
+i'm dead, i'm crap, never speek to me again.
+chow, for, ever.
+
