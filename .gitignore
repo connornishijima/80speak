@@ -1,0 +1,9 @@
+# Generated output files
+output/
+
+# Python
+__pycache__/
+*.pyc
+
+# Wine
+.wine/
